@@ -1,0 +1,2 @@
+# DesignPattern_ObserverDP_CPP_WeatherStationSubscribers
+ example for the ObserverDP
